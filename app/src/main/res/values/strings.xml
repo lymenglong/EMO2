@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">EMO</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_rewarded_id">/6499/example/rewarded-video</string>
+    <string name="admob_interstitial_id">/6499/example/interstitial</string>
+    <string name="text_video">Video</string>
+    <string name="text_interstitial">Interstitial</string>
+
+
+    <!--region Splash Text-->
+    <string name="text_splash">
+        <![CDATA[<b>
+            <font color = "#FF7033" size=+3>E</font>
+            <font color = "#4A34C4" size=+3>Money</font>
+            <font color = "#097CD1" size=+3>Online</font>]]>
+    </string>
+
+    <string name="creator">Creator</string>
+
+    <string name="text_creator">
+        <![CDATA[<b>
+            <font color = "#FF7033" size=+3>By:</font>
+            <font color = "#4A34C4" size=+3>EMO</font>
+            <font color = "#097CD1" size=+3>Group</font>]]>
+    </string>
+    <string name="application_icon">Application Icon</string>
+    <string name="hint_welcome">Welcome to Earn Money Online Application</string>
+    <string name="back">Back</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="voice_search">Voice Search</string>
+    <string name="home">Home</string>
+    <string name="copy_right">\@copyright</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title">Title</string>
+    <!--endregion-->
+
+</resources>
